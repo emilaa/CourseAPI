@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "QRwjVE1peBLwfLjp6ZJ1dKXqBLpLLjVCkAusnEs9ZCs=",
+  "Source": "App",
+  "BasePath": "_content/App",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "App\\wwwroot",
+      "Source": "App",
+      "ContentRoot": "C:\\Users\\OMEN\\Desktop\\Programming\\CODE\\API-React\\Api-Project\\Api\\App\\wwwroot\\",
+      "BasePath": "_content/App",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\OMEN\\Desktop\\Programming\\CODE\\API-React\\Api-Project\\Api\\App\\wwwroot\\Templates\\Confirm.html",
+      "SourceId": "App",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\OMEN\\Desktop\\Programming\\CODE\\API-React\\Api-Project\\Api\\App\\wwwroot\\",
+      "BasePath": "_content/App",
+      "RelativePath": "Templates/Confirm.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Templates\\Confirm.html"
+    }
+  ]
+}
